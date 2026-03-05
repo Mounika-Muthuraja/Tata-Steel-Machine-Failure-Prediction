@@ -41,6 +41,3 @@ This project demonstrates practical experience in:
 * Feature engineering
 * Model evaluation using recall-focused metrics
 * Statistical validation of operational drivers
-
-* 3 strong resume bullets from this
-* Or a one-line GitHub description for the repo 🚀
