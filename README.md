@@ -118,5 +118,3 @@ All major relationships were validated using:
 
 ⭐ This project demonstrates end-to-end machine learning workflow including data preprocessing, feature engineering, model selection, statistical testing, and validation under class imbalance conditions.
 
-
-* Or convert this into 3 strong resume bullet points aligned with this README 🚀
